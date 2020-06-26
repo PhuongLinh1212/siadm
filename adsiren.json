@@ -1,10 +1,10 @@
 {
   "ads": {
     "id_app": "5eddf54135810c06f487c05c",
-    "banner_setting": "ca-app-pub-5315325291235997/8273792524",
-    "inter_setting": "ca-app-pub-5315325291235997/2925209024",
-    "banner_main": "ca-app-pub-5315325291235997/1708384178",
-    "inter_main": "ca-app-pub-5315325291235997/8082220836"
+    "banner_setting": "ca-app-pub-3940256099942544/6300978111",
+    "inter_setting": "ca-app-pub-3940256099942544/1033173712",
+    "banner_main": "ca-app-pub-3940256099942544/6300978111",
+    "inter_main": "ca-app-pub-3940256099942544/1033173712"
   }, 
   "app_exists": {
     "id": "com.sirenscarychat.headvideocalls",
