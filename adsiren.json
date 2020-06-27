@@ -1,13 +1,13 @@
 {
   "ads": {
-    "id_app": "5eddf54135810c06f487c05c",
-    "banner_setting": "ca-app-pub-3940256099942544/6300978111",
-    "inter_setting": "ca-app-pub-3940256099942544/1033173712",
-    "banner_main": "ca-app-pub-3940256099942544/6300978111",
-    "inter_main": "ca-app-pub-3940256099942544/1033173712"
+    "id_app": "5eddf54135810c06f487c05cff",
+    "banner_setting": "ca-app-pub-8541594829243773/2742359703",
+    "inter_setting": "ca-app-pub-8541594829243773/9766082997",
+    "banner_main": "ca-app-pub-8541594829243773/6681604716",
+    "inter_main": "ca-app-pub-8541594829243773/4055441377"
   }, 
   "app_exists": {
-    "id": "com.sirenscarychat.headvideocalls",
+    "id": "com.sirenscarychat.headvideocall.prank",
     "is_exists": true,
     "is_show_more": false
   },
