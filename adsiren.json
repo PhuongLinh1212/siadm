@@ -4,7 +4,9 @@
     "banner_setting": "ca-app-pub-4084941899768286/3396630085",
     "inter_setting": "ca-app-pub-4084941899768286/2083548410",
     "banner_main": "ca-app-pub-4084941899768286/4518140066",
-    "inter_main": "ca-app-pub-4084941899768286/1317261654"
+    "inter_main": "ca-app-pub-4084941899768286/1317261654",
+    "onlyAdmod": true,
+    "onlyFB": false
   }, 
   "app_exists": {
     "id": "com.sirenscarychat.headvideocall.prank.linh",
